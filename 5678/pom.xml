@@ -5,6 +5,10 @@
   <groupId>1234</groupId>
   <artifactId>5678</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+<<<<<<< HEAD
+=======
+  <packaging>jar</packaging>
+>>>>>>> branch 'master' of https://github.com/mryananderson1/maven.git
 
   <name>5678</name>
   <url>http://maven.apache.org</url>
