@@ -21,4 +21,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <description>create jar file</description>
 </project>
